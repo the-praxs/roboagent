@@ -1,0 +1,11 @@
+# Ignore checkpoints directory
+checkpoints/
+
+# Ignore datasets directory
+datasets/
+
+# Ignore .pyc files
+*.pyc
+
+# Ignore .pyc files in any subdirectory
+**/*.pyc
